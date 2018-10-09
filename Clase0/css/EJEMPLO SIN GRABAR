@@ -30,3 +30,15 @@ para que no se distorsione se usa auto
 
 justify content acomoda la caja respecto al navegador
 text aline justifica lo que tenga dentro de la caja
+
+es mejor usar la relativa
+
+
+
+position
+
+	static
+	aboslute
+	relativo
+	fixed
+	inherit

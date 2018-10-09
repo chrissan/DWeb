@@ -1,37 +1,36 @@
-.modeladoLogo
+body
 {
-	padding: 30px 600px;
-	background: #F38010;
-	width: 130px;
-	height: 130px;
-}
-
-img
-{
-	width: 30%;
-	height: auto;
+	background-color: #F4F4F4;
 
 }
 
-.parrafo1
-{
-	margin: 10px 50px;
-	padding: 20px;
-	border-width: 10px;
-	border-style: ridge;
-	border-color: black;
-	text-align: justify;
-}
-
-.tresElementos
-{
-	margin: 30px 250px;
-	padding: 50px;
-	justify-content: center;
-	background-color: white:
-	border-style: solid;
-	border-color: blue;
-	border: solid;
-	border-width: 20px;
+h1{
+	position: relative;
 	text-align: center;
+	top: 0px;
+	top: 100px;
+}
+
+.pos
+{
+	position: relative;
+	left: 100px;
+	right: 100px;
+	top: 100px;
+	bottom: 100px;
+	padding: 20px;
+}
+
+.pos1
+{
+	position: fixed;
+	left: 200px;
+	right: 200px;
+	top: 200px;
+	bottom: 200px;
+}
+
+.pos2
+{
+	position: inherit;
 }
