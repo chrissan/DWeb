@@ -1,28 +1,37 @@
-.caja1{
-	background: #419CE3;
+.modeladoLogo
+{
+	padding: 30px 600px;
+	background: #F38010;
+	width: 130px;
+	height: 130px;
+}
 
-	margin-top: 50px;
-	margin-left: 30px;
-	margin-right: 40px;
-	margin-bottom: 40px;
-
-	padding-top: 50px;
-	padding-left: 30px;
-	padding-right: 40px;
-	padding-bottom: 40px;
-
+img
+{
+	width: 30%;
+	height: auto;
 
 }
-.caja2{
-	background: #13E3F3;
-	margin: 50px;
-	padding: 60px;
+
+.parrafo1
+{
+	margin: 10px 50px;
+	padding: 20px;
+	border-width: 10px;
+	border-style: ridge;
+	border-color: black;
+	text-align: justify;
 }
-.caja3{
-	border-top-style: double;
-	border-right-style: double;
-	border-left-style: double;
-	border-bottom-style: double;
-	border-radius: 30px;
+
+.tresElementos
+{
+	margin: 30px 250px;
+	padding: 50px;
+	justify-content: center;
+	background-color: white:
+	border-style: solid;
+	border-color: blue;
+	border: solid;
 	border-width: 20px;
+	text-align: center;
 }
