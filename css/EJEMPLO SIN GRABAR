@@ -1,0 +1,23 @@
+/*
+header{
+	background-color: blue;
+}
+
+h1,h5{
+	/*color: red;
+	color: #B061FF;*/
+	
+	color: rgb(100,200,30);
+}
+
+
+#ParrafoE{
+	color: green;
+}
+
+.imagenGrande{
+	height: 125px;
+	width: 125px;
+
+}
+*/
